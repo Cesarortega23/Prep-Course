@@ -44,7 +44,6 @@ function suma(x, y){
   // Suma "x" e "y" juntos y devuelve el valor
    var suma = x + y;
     return suma;
-
   }
   
 
@@ -369,11 +368,6 @@ function esVocal(letra){
     }
     return 'Dato incorrecto';
 }
-
-  
-
-
-
 
 
 // No modificar nada debajo de esta línea
