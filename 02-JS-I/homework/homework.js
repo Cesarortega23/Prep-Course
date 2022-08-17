@@ -33,7 +33,7 @@ function devolverString(str) {
   return devolverString
  
  }
-     devolverString("Hola");
+    
    
 
 
@@ -45,7 +45,7 @@ function suma(x, y){
    var suma = x + y;
     return suma;
   }
-  
+   
 
 
 function resta(x, y) {
@@ -271,7 +271,7 @@ function agregarSimboloExclamacion(str) {
   return agregarSimboloExclamacion
 
 }
-   agregarSimboloExclamacion("Hello Word",);
+  
 
 
 

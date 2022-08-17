@@ -9,8 +9,9 @@ function obtenerMayor(x, y) {
     return x;
 }else if( y > x){
     return y;
-}else 
-      return x || y; 
+}else {(y === x)
+  return y || x;
+}
 }
  
 
@@ -217,8 +218,7 @@ function tieneTresDigitos(numero){
   //Escribe tu código aquí
   if( numero >99 && numero < 1000){
     return true;
-}
-    else{
+}else{
     return false;
 }
 }
